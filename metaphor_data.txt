@@ -1,0 +1,444 @@
+@time [catg] 
+
+clock l +clock-dial l +clock-hands l 
+
+duration l 
+
+fast l +quick l 
+
+slow l +tardy l 
+
+past l +history l 
+
+future l 
+
+now l 
+
+century l +decade l +year l +month l +week l +day l +hour l +minute l +second l 
+
+era l +epoch l 
+
+long-due l
+
+of-yore l 
+
+eternity f 
+
+wings f +fly f 
+
+# 
+
+ 
+
+@state-of-being [catg] 
+
+life l +live l +alive l +living l 
+
+full-of-energy l + vivacity f 
+
+creature l 
+
+existence l +survive l +be l +being l 
+
+ill l 
+
+decay l 
+
+lifeless l 
+
+not-alive l 
+
+die l +dead l +death l +deceased l +departed l 
+
+lifecycle f 
+
+eternity f 
+
+# 
+
+ 
+
+@plant [catg] 
+
+flower l 
+
+leafs l 
+
+stem l 
+
+petals l 
+
+thorns l 
+
+fruit l 
+
+water l 
+
+photosynthesis l 
+
+forest l 
+
+trees l 
+
+soil l 
+
+natural-life f 
+
+# 
+
+ 
+
+@emotion [catg] 
+
+love l 
+
+anger l 
+
+rage l 
+
+joy l 
+
+sad l 
+
+kind l 
+
+engaged l 
+
+cheerful l 
+
+happy l 
+
+scared l 
+
+fulfilled l +satisfied l 
+
+unkind l 
+
+rage l 
+
+fury l 
+
+unhappy l 
+
+dissatisfied l 
+
+heart f 
+
+# 
+
+ 
+
+@animal [catg] 
+
+mammal l +land l +lactation l 
+
+bird l +air l +wings l +eggs l +hollow-bones l 
+
+insect l +air l +wings l +exoskeleton l 
+
+fish l +water l +gills l +scales l 
+
+reptile l +land l +eggs l 
+
+amphibious l +water l +land l ambiguous f 
+
+eyes l 
+
+ears l 
+
+legs l 
+
+nose l 
+
+tail l 
+
+metabolism l 
+
+ferocious f 
+
+# 
+
+ 
+
+@body [catg] 
+
+physique l 
+
+intestines l 
+
+eyes l 
+
+ears l 
+
+arms l +hands l 
+
+legs l 
+
+nose l 
+
+mouth l 
+
+metabolism l 
+
+muscles l 
+
+hair l 
+
+head l 
+
+heart l 
+
+lungs l 
+
+spleen l 
+
+kidneys l 
+
+skin l 
+
+sinful f 
+
+@ 
+
+ 
+
+@monkey [exm>animal] 
+
+mammal l 
+
+eyes l 
+
+ears l 
+
+legs l 
+
+nose l 
+
+tree l +climbing l 
+
+long-tail l 
+
+metabolism l 
+
+fool f 
+
+# 
+
+ 
+
+@heart [exm>body] 
+
+red l +color l +warmth f 
+
+body l 
+
+love f +red f +warmth f 
+
+blood l +blood-red l +passionate f +warmth f 
+
+bosom friend f 
+
+heart-shape f +fruit heart l +food l +sweet-taste l +sweetheart f +kind l +valentine l 
+
+spear l +stab l +pain l +death l 
+
+sword l +stab l +pain l +death l 
+
+fight l +pain l +death l 
+
+war l +pain l +death l 
+
+cow's-heart l +food l +dog l 
+
+# 
+
+ 
+
+@love [exm>emotion] 
+
+emotion l 
+
+kind l 
+
+engaged l 
+
+cheerful l 
+
+beautiful f 
+
+happy l 
+
+fulfilled l +satisfied l 
+
+warmth f 
+
+red l +color l +warmth f 
+
+lover l +body l 
+
+spiritual l soul-mates f 
+
+cupid f 
+
+marriage l 
+
+divorce l mental-pain f 
+
+separation l mental-pain f 
+
+thorn-in-my-side f 
+
+# 
+
+ 
+
+@rose [exm>plant] 
+
+plant l 
+
+flower l 
+
+leaf l 
+
+stem l 
+
+petal l 
+
+beautiful l 
+
+thorn l +body-pain l 
+
+water l +thirst f 
+
+red l +color l +warmth f 
+
+pink l +color l +innocent f 
+
+white l +color l +pure f 
+
+gift l +lover l +love f +emotion l +kind l 
+
+# 
+
+ 
+
+@lily [exm>plant] 
+
+plant l 
+
+flower l 
+
+leaf l 
+
+stem l 
+
+petal l 
+
+beautiful l 
+
+white l +color l +pure f +virginity f +immaculate f +serene f 
+
+name l +girl l 
+
+gift l +lover l +love f +emotion l +kind l +funeral l +grave l +death f 
+
+# 
+
+ 
+
+@death [exm>state-of-being] 
+
+not alive l 
+
+deceased l 
+
+grim-reaper f 
+
+illness l +decay f +black f 
+
+accident l 
+
+fight l +war l 
+
+silent l +still l +pure f +serene f 
+
+white-face l +pale l +no-blood l 
+
+buried l +funeral l 
+
+# 
+
+ 
+
+@mouth [exm>body] 
+
+lips l 
+
+red l +color l +warmth f 
+
+smile l +kind l +warmth f 
+
+lipstick l +red l +color l +beautiful l +artificial f 
+
+eat l +food l 
+
+teeth l 
+
+tongue l +lick l +taste l +bitter l +sweet l 
+
+kiss l +greeting l +kind l +friend f +lips-emoji f 
+
+love f +body l 
+
+speak l +whisper l +kind l +love-talk f +secret f 
+
+shout l +scream l +anger f +painful f 
+
+# 
+
+ 
+
+@anger [exm>emotion] 
+
+emotion l 
+
+unkind l 
+
+rage l 
+
+fury l 
+
+fire f +heat l +warmth l +red f +alarm f 
+
+unhappy l 
+
+dissatisfied l 
+
+argue l +fight l +pain l +black f +color l +death f 
+
+dagger f mental-pain f 
+
+opponent l +enemy l +war l 
+
+shout l +scream l +painful f 
+
+# 
+
+ 
+
+ 
+
+@yore [exm>time] 
+
+time l 
+
+past l +history l 
+
+long-due l 
+
+phrase l +of-yore l 
+
+oldfashioned f +outdated f 
+
+# 
+
