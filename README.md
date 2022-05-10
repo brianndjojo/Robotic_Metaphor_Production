@@ -1,5 +1,13 @@
 # Robotic_Metaphor_Production
 
+**This thesis was done with support from both: Dr Song Guo & Dr Johan F Hoorn.**
+
+- **Dr Song Guo:**
+  - https://www4.comp.polyu.edu.hk/~cssongguo/
+- **Dr Johan F Hoorn**:
+  - https://www.researchgate.net/profile/Johan-Hoorn
+
+
 This is a proof-of-concept that implements **Metaphor Production w/ Python.** 
 
 **Abstract** — The consensus of research into Creativity is that it is essential for Human-Intelligence. Creativity has many useful applications and being able to simulate it is considered a milestone. This paper simulates Creativity using Metaphors. 
