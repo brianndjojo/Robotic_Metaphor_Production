@@ -1,6 +1,6 @@
 # Robotic_Metaphor_Production
 
-**This thesis was done with support from both: Dr Song Guo & Dr Johan F Hoorn.**
+**This thesis was done with the guidance from both Dr Song Guo & Dr Johan F Hoorn*
 
 - **Dr Song Guo:**
   - https://www4.comp.polyu.edu.hk/~cssongguo/
