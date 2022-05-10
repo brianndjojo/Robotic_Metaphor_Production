@@ -4,10 +4,13 @@ This is a proof-of-concept that implements **Metaphor Production w/ Python.**
 
 **Abstract** — The consensus of research into Creativity is that it is essential for Human-Intelligence. Creativity has many useful applications and being able to simulate it is considered a milestone. This paper simulates Creativity using Metaphors. 
 
-**Metaphor Production is simulated programmatically through two experiments: 
-1) Robotic Metaphor Production & 2) Emotion-Bot.** 
+**Metaphor Production is simulated programmatically through two experiments:** 
+1) Robotic Metaphor Production 
+2) Emotion-Bot
 
-The first experiment simulates the needed theory to generate Metaphors based on a predefined feature set, whereas the second experiment is an improved version which makes use of a semantic network. Testing is only done on Experiment 1, and performance-wise it is acceptable but has a lot of limitations that need to be addressed. 
+- The first experiment simulates the needed theory to generate Metaphors based on a predefined feature set, whereas the second experiment is an improved version which makes use of a semantic network. 
+
+- Testing is only done on Experiment 1, and performance-wise it is acceptable but has a lot of limitations that need to be addressed. 
 
 ## For more details on the Literature-Theory behind Metaphors and how I implemented it please read the documents listed below:
 
