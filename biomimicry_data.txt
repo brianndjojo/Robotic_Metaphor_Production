@@ -1,0 +1,113 @@
+@plant [catg] 
+
+flower l 
+
+leafs l 
+
+stem l 
+
+petals l 
+
+thorns l 
+
+fruit l 
+
+water l 
+
+photosynthesis l 
+
+forest l 
+
+trees l 
+
+soil l 
+
+natural-life f 
+
+# 
+
+
+@animal [catg] 
+
+mammal l +land l +lactation l 
+
+bird l +air l +wings l +eggs l +hollow-bones l 
+
+insect l +air l +wings l +exoskeleton l 
+
+fish l +water l +gills l +scales l 
+
+reptile l +land l +eggs l 
+
+amphibious l +water l +land l ambiguous f 
+
+eyes l 
+
+ears l 
+
+legs l 
+
+nose l 
+
+tail l 
+
+metabolism l 
+
+ferocious f 
+
+# 
+
+
+@amphibian [catg] 
+
+land l
+
+water l
+
+warm-environment l
+
+amphibious l +water l +land l ambiguous f 
+
+smooth l
+# 
+
+
+
+@monkey [exm>animal] 
+
+mammal l 
+
+eyes l 
+
+ears l 
+
+legs l 
+
+nose l 
+
+tree l +climbing l 
+
+long-tail l 
+
+metabolism l 
+
+fool f 
+
+# 
+
+
+@gecko [exm>amphibian] 
+
+sticky l
+
+firm l
+
+grip l
+
+# 
+
+ 
+ 
+
+
+
